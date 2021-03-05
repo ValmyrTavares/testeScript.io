@@ -24,3 +24,4 @@ export default class Slide{
        this.addEvent()
     }
 }
+console.log('sou o slide')
